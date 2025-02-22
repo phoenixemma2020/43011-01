@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--NephroThai or Center-->
+<!--database config-->
+<configs>
+  <location>2</location>
+  <path>D:\43011-01\TRTSystem3.3.0.0\Database</path>
+  <filename>1288TRTDatabase.mdb</filename>
+  <centerid>1288</centerid>
+  <centername>ราชพฤกษ์กระทุ่มแบนคลินิกเฉพาะทางด้านเวชกรรมสาขาไตเทียม</centername>
+</configs>
